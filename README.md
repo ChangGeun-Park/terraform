@@ -1,2 +1,2 @@
-# terraform
+# Terraform
 terraform project repository
